@@ -24,7 +24,6 @@ A First Level Header
 >
 > ## This is an H2 in a blockquote
 > <p>testing</p>
-
         <p>hello</p>
         int x = 0;
 
