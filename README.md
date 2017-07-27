@@ -15,7 +15,7 @@ sudo apt-get install npm
 
 A First Level Header
 ====================
-A Second Level Header
+[A Second Level Header](https://www.google.com)
 ---------------------
 
 > This is a blockquote.
