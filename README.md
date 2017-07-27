@@ -5,6 +5,7 @@
 ### head3
 ```
 git commands
+sudo apt-get install npm
 ```
 [testing link](https://www.google.com)
 
