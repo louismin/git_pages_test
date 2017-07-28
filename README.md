@@ -3,7 +3,6 @@
 ## head2
 ###### head3
 ### head3
-# test [![NPM version][npm-image]][npm-url]
 ```
 git commands
 sudo apt-get install npm
